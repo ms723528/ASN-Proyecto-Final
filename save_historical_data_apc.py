@@ -73,7 +73,7 @@ def get_historical_klines(symbol, interval, start_str, end_str=None):
     :return: list of OHLCV values
     """
     # create the Binance client, no need for api key
-    client = Client('TZnqr3rlH9Bjy2r1SAZRkupoBBV2PAWEYZxMvMtfTVAwhOe0v9gebdjOQpzDByrS','0GSqoZEYPyNhaJfI5qnbeidMy1rIzkfd8W7O8Re5jcUBfPjc1WGQjxsSG6ERhga6')
+    client = Client('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx','XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
 
     # init our list
     output_data = []
